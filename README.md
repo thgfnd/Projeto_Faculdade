@@ -18,7 +18,7 @@ Sistema em Java para gerenciar veículos e controlar a troca de óleo com base e
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/projeto_Controle.git
+   git clone https://github.com/thgfnd/projeto_Controle.git
 Abra o projeto no IntelliJ IDEA ou outra IDE Java.
 
 Compile o projeto e execute a classe principal:
